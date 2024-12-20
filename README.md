@@ -4,7 +4,7 @@
 
 This repository contains all my materials for the Applied Statistics module of my Higher Diploma in Data Analytics at ATU. It includes notebooks, data, and other resources for completing the assigned tasks and the main project.
 
-<img src="https://media.istockphoto.com/id/658291850/photo/young-plant-growing-in-sunlight.jpg?s=612x612&w=0&k=20&c=ZH9gmP8dLhwNaWuVbtBz99Fkybg_B0Uanw88QXSdMnY=" width="300">
+<img src="https://media.istockphoto.com/id/658291850/photo/young-plant-growing-in-sunlight.jpg?s=612x612&w=0&k=20&c=ZH9gmP8dLhwNaWuVbtBz99Fkybg_B0Uanw88QXSdMnY=" width="400">
 
 ## Repository Contents
 
