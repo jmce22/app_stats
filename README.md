@@ -2,7 +2,9 @@
 
 # Applied Statistics Module Repository
 
-This repository contains all the materials for the Applied Statistics module of my Higher Diploma in Data Analytics at ATU. It includes notebooks, data, and other resources for completing the assigned tasks and the main project.
+This repository contains all my materials for the Applied Statistics module of my Higher Diploma in Data Analytics at ATU. It includes notebooks, data, and other resources for completing the assigned tasks and the main project.
+
+<img src="https://media.istockphoto.com/id/658291850/photo/young-plant-growing-in-sunlight.jpg?s=612x612&w=0&k=20&c=ZH9gmP8dLhwNaWuVbtBz99Fkybg_B0Uanw88QXSdMnY=" width="300">
 
 ## Repository Contents
 
@@ -27,8 +29,8 @@ You can run the notebooks on your local machine using either Visual Studio Code 
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/jmce22/app_stats
+   cd  app_stats
    ```
 
 2. Create a new Conda environment and install the required dependencies:
@@ -41,7 +43,7 @@ You can run the notebooks on your local machine using either Visual Studio Code 
 
 4. Ensure the Python extension is installed in Visual Studio Code, and select your `stats_env` environment as the interpreter.
 
-5. Open the desired notebook (`tasks_notebook.ipynb` or `project_notebook.ipynb`) and start executing the cells.
+5. Open the desired notebook (`tasks.ipynb` or `project.ipynb`) and start executing the cells.
 
 ### Option 2: Using GitHub Codespaces
 
